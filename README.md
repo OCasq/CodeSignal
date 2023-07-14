@@ -1,3 +1,3 @@
 # CodeSignal
 
-Solution to CodeSignal challenges.
+Solutions to CodeSignal challenges.
